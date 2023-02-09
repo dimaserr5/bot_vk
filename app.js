@@ -876,7 +876,7 @@ async function saveUsers()
 	return true;
 }
 
-vk.setOptions({ token: 'vk1.a.sKW8RyzsHb2xJZ5xjrG4NwEzH7DsbVrAY91TZjlTx9fegemN_W3ElpeUCi97y9rfbGNHqOtspsr36PjdDLJO92aaVAhFIJEwH6gKgrb8nVZzi1oq80LBT9iK6IjDLF0GCg78L3BMHPVoNsCg25YO4nKQXtU5u0-i7mXLXHmDPlYdTLL4PCKuxwf34iLziLJq5a3_RXm1-Gsx62RfGr9XDA', pollingGroupId: 210231219 });
+vk.setOptions({ token: 'vk1.a.ySh_yoIwY_4okj_HHJluPwwemzUdvcXh7Ca4Kq8YA4RB2nzWIek_SLMxEIlA-jx9r_acSIBpOAsE4JTk2LA9jhGAieM9i8Xf9-_9SPZFNQbWDXyoA4kQMm0A3jJsRY7d2VHSnKbcHfDzef-yC1OY_XdosdtZfF39e9QQZNBGdcmIQSo2ZFF0buxBTKMOqJEEVn5JPew-uSzbJIcKaRxZDg', pollingGroupId: 210231219 });
 const { updates, snippets } = vk;
 
 updates.startPolling();
